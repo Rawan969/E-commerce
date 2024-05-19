@@ -1,0 +1,3 @@
+<h3>
+  Welcome to e-commerce! This project is a full-stack web application built using React for the frontend, Node.js for the backend, and MongoDB as the database. With e-commerce, users can register, log in, view different categories, add items to cart… The front-end is developed using React, providing a responsive and interactive user interface. The backend, powered by Node.js, handles authentication, data processing, and serves the frontend content. MongoDB is used as a database to store and manage application data. There is also an administrative dashboard that can add new elements to the website
+</h3>
